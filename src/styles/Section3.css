@@ -1,0 +1,11 @@
+#Section3{
+    margin-top: 40px;
+}
+
+#threeBythree{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-right:160px ;
+    padding-left:220px ;
+    
+}

@@ -1,0 +1,37 @@
+#footer{
+    background-color: #1a2456;
+    color: #E9BEB0;
+}
+
+
+#Fcontainer{
+    margin-top: 60px;
+    padding-top: 45px;
+    padding-right: 200px;
+    padding-left:200px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+
+#address{
+    font-size: 0.8em;
+    letter-spacing: 1px;
+    font-style: normal;
+    margin: 0px;
+}
+
+.footerText{
+    margin-bottom: 10px;
+    font-size: 0.8em;
+    letter-spacing: 1px;
+    font-style: normal;
+}
+
+.footerHead{
+    font-weight: 600;
+    font-size: .7em;
+    letter-spacing: 1px;
+    padding-bottom:10px ;
+    margin-bottom: 15px;
+}

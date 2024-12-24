@@ -1,0 +1,9 @@
+#gridContainer{
+    padding-left: 202px;
+    padding-right: 155px;
+    display: grid;
+    margin-top: 50px;
+    /* row-gap: 10px; */
+    grid-template-columns: 1fr 1fr;
+
+}

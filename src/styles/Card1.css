@@ -1,0 +1,26 @@
+#productCard{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+#Shopper{
+    background-color: #1a2456;
+    border-radius: 10px;
+    font-size: small;
+    color: white;
+    padding: 0px 15px;
+}
+
+#preTag{
+    background-color: #ff8b68;
+    position: absolute;
+    right: 0px;
+    top: 10px;
+}
+
+.card1 {
+    cursor: pointer;
+  }
